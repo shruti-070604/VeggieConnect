@@ -3,7 +3,7 @@ Built real-time demand aggregation system reducing food waste by 40% in simulati
 
 Tech Stack:
 
-Mobile First: React Native + Capacitor (or PWA)
+Mobile First: React Native + Capacitor
 
 Backend: Firebase (Auth/Firestore/Functions)
 
